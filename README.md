@@ -1,4 +1,4 @@
-# SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks
+# SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks.
 
 ---
 
